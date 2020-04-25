@@ -191,6 +191,7 @@ def raw_data(df):
             ask = input("Would you like 5 more rows, yes or no?")
 
 def main():
+    """ The main function that calls all other functions. """
     while True:
         city, month, day = get_filters()
         df = load_data(city, month, day)

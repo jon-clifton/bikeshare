@@ -5,9 +5,7 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
               'washington': 'washington.csv' }
-city = ""
-month = ""
-day = ""
+city, month, day = "", "", ""
 
 def get_filters():
     """

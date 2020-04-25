@@ -1,0 +1,4 @@
+When researching syntax and functions I used:
+    https://pandas.pydata.org/docs/
+    https://docs.python.org/3/
+    https://stackoverflow.com/
